@@ -2,13 +2,14 @@
 Q-Learning implementation on the Mountain Car environment from OpenAI Gym.
 
 <br>
-<br>
 
 ## Requirement
 
 - Python 3.7.3 
 - gym 0.14.0
 - numpy 1.17.0
+
+<br>
 
 ## Setup
 ### Install dependencies
